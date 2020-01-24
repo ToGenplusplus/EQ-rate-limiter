@@ -13,6 +13,7 @@ sqlalchemy = "*"
 simplejson = "*"
 gunicorn = "*"
 redis = "*"
+functools = "*"
 
 
 [dev-packages]
